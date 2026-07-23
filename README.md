@@ -46,6 +46,7 @@
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
+| [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 | [2235-add-two-integers](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2235-add-two-integers) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2525-categorize-box-according-to-criteria) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
