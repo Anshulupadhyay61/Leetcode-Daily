@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
