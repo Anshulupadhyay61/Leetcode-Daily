@@ -64,6 +64,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2525-categorize-box-according-to-criteria) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
