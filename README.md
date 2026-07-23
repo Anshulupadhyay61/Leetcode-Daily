@@ -44,6 +44,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
 | [2235-add-two-integers](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2235-add-two-integers) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2525-categorize-box-according-to-criteria) |
@@ -123,5 +124,10 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
