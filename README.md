@@ -61,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
@@ -86,6 +87,7 @@
 | [0001-two-sum](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -123,6 +125,7 @@
 | [0125-valid-palindrome](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
