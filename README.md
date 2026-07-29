@@ -26,6 +26,7 @@
 | [1672-richest-customer-wealth](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
