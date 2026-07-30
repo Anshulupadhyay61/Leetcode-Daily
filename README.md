@@ -27,6 +27,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
