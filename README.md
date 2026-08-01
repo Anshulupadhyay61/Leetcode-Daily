@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -69,6 +70,7 @@
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
@@ -86,6 +88,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
