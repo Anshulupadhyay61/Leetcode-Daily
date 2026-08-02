@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -75,6 +76,7 @@
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -162,6 +164,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -207,4 +210,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
