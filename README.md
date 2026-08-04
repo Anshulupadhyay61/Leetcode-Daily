@@ -24,6 +24,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -80,6 +81,7 @@
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2235-add-two-integers) |
@@ -106,6 +108,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
 ## Sliding Window
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
