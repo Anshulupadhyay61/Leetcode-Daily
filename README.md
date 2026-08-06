@@ -80,6 +80,7 @@
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -172,6 +173,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -222,10 +224,12 @@
 | ------- |
 | [0292-nim-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -238,4 +242,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
