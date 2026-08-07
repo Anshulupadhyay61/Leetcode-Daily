@@ -3,7 +3,7 @@ class Solution:
         rightSum = []
         leftSum = []
         i = 0
-        j = i +1 
+        j = 0
         Difference = []
         
         for i in range (len(nums)):
