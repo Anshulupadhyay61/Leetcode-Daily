@@ -31,6 +31,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2574-left-and-right-sum-differences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
 |  |
 | ------- |
