@@ -24,6 +24,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
@@ -52,6 +53,7 @@
 | [0709-to-lower-case](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -113,6 +115,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
