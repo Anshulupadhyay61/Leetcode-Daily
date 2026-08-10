@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -162,6 +163,7 @@
 | [0035-search-insert-position](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
