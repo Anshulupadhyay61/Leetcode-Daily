@@ -49,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -154,6 +155,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
