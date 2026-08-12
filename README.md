@@ -17,6 +17,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
@@ -205,6 +206,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
