@@ -58,6 +58,7 @@
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
+| [1859-sorting-the-sentence](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -141,6 +142,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1859-sorting-the-sentence) |
 ## Queue
 |  |
 | ------- |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
