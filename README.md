@@ -60,6 +60,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
