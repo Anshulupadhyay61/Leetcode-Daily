@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
@@ -130,6 +131,7 @@
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -155,6 +157,7 @@
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1859-sorting-the-sentence) |
@@ -176,6 +179,7 @@
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -185,6 +189,7 @@
 | [0035-search-insert-position](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 ## Matrix
 |  |
