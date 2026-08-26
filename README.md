@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
@@ -94,6 +95,7 @@
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
@@ -129,6 +131,7 @@
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -156,6 +159,7 @@
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
@@ -188,6 +192,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
@@ -232,6 +237,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
