@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
@@ -133,6 +134,7 @@
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -150,6 +152,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -160,6 +163,7 @@
 | [0217-contains-duplicate](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
@@ -267,6 +271,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -303,4 +308,16 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
