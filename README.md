@@ -63,6 +63,7 @@
 | [0344-reverse-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0709-to-lower-case) |
@@ -140,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
@@ -168,6 +170,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1859-sorting-the-sentence) |
@@ -247,6 +250,7 @@
 | [0136-single-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
