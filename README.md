@@ -259,11 +259,13 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0155-min-stack) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
