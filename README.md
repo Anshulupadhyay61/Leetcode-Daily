@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
@@ -142,6 +143,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1436-destination-city) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
