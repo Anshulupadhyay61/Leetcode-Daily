@@ -56,6 +56,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0205-isomorphic-strings) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1920-build-array-from-permutation) |
@@ -95,6 +97,7 @@
 | [0013-roman-to-integer](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
@@ -250,6 +253,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
