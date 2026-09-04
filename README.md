@@ -41,6 +41,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
@@ -258,6 +259,7 @@
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0389-find-the-difference) |
+| [1720-decode-xored-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1720-decode-xored-array) |
 ## Memoization
 |  |
 | ------- |
