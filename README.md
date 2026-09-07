@@ -99,6 +99,7 @@
 | [0048-rotate-image](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0231-power-of-two) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
@@ -263,6 +265,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1137-n-th-tribonacci-number) |
 ## Design
