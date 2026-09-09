@@ -343,4 +343,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
