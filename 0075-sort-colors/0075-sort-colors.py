@@ -3,17 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        maximum_no = max(nums)
-        frequency = [0]*(maximum_no + 1)
+        left = 0
+        right = len(nums)-1
+        i = 0
 
-        for i in nums:
-            frequency[i] += 1
-        index = 0
-        for i in range(0,maximum_no + 1):
-            while frequency[i] > 0:
-                nums[index] = i
-                index += 1
-                frequency[i] -= 1
-        
-        
+        while i <= right:
+            if nums[i]==1:
+                i+=1
+            elif nums[i]==0:
+                temp = nums[i]
+                nums[i] = nums[left]
+                nums[left] = temp
+                i+=1
+                left+=1
+            else:
+                temp = nums[i]
+                nums[i] = nums[right]
+                nums[right] = temp
+                right -= 1
