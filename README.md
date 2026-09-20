@@ -83,6 +83,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2942-find-words-containing-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1920-build-array-from-permutation](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/2043-simple-bank-system) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
