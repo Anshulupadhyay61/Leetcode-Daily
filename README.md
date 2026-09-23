@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -229,6 +230,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
