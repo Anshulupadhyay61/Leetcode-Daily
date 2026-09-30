@@ -216,6 +216,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -394,4 +395,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
