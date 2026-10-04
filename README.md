@@ -381,6 +381,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0610-triangle-judgement) |
 | [1148-article-views-i](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1179-reformat-department-table) |
 ## Quicksort
 |  |
 | ------- |
