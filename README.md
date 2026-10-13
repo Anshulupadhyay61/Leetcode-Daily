@@ -383,6 +383,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1179-reformat-department-table) |
