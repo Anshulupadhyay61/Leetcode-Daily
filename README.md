@@ -397,6 +397,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1211-queries-quality-and-percentage) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Anshulupadhyay61/Leetcode-Daily/tree/master/1517-find-users-with-valid-e-mails) |
 ## Quicksort
 |  |
